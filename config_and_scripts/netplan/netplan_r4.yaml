@@ -1,0 +1,12 @@
+network:                                                                       
+    version: 2                                                                 
+    ethernets:                                                                 
+        ens2:                                                                  
+                addresses:                                                     
+                        - 10.0.0.6/30                                          
+        ens3:                                                                  
+                addresses:                                                     
+                        - 10.0.0.13/30                                         
+        ens4:                                                                  
+                addresses:                                                     
+                        - 10.0.0.9/30 
